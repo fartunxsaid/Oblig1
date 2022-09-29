@@ -1,0 +1,30 @@
+.BrownParagraph{
+    color: brown;
+}
+ 
+img{
+    /* color: brown; */
+    outline:5px solid rgb(173, 95, 95);
+}
+ 
+p {
+    font-style: italic;
+}
+h2 {
+    background-color: rgb(196, 138, 138);
+   font-family: Tahoma;
+   margin-top: 30px;
+}
+#Border {
+    background-color:rgb(196, 138, 138);
+    height: 30px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#Address {
+    margin-bottom: 20px;
+}
+ 
+#top {
+    font-family: Impact
+}
